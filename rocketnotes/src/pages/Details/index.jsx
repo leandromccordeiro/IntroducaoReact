@@ -5,7 +5,7 @@ export function Details() {
   
   return(
     <Container>
-      Teste
+      Testeeeeeeeeeeeeeeeeee
     </Container>
 
   )
